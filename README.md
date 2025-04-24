@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋, I'm Lou CiTy!
 
-<!--
-**city314/city314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm passionate about Fullstack Development, AI, and Open Source  
+🌱 Currently learning: Flutter, Firebase, DevOps  
+📫 How to reach me: loucity.dev@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages and Tools:**  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+
+---
+
+![Lou's GitHub stats](https://github-readme-stats.vercel.app/api?username=louc1ty&show_icons=true&theme=tokyonight)
