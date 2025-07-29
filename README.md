@@ -1,16 +1,27 @@
-### Hi there 👋, I'm Lou CiTy!
+<h1 align="center">Hi there, I'm Cong Tuan</h1>
+<h3 align="center">A passionate web developer following React & NodeJS</h3>
 
-💻 I'm passionate about Fullstack Development, AI, and Open Source  
-🌱 Currently learning: Flutter, Firebase, DevOps  
-📫 How to reach me: loucity.dev@gmail.com
-
----
-
-**Languages and Tools:**  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+- I'm currently learning **React, Bootstrap, JavaScript**
+- I'm building **modern websites and fullstack web**
+- Reach me at: **biyeo126@gmail.com**
+- Fun fact: I love mixing code with creativity
 
 ---
 
-![Lou's GitHub stats](https://github-readme-stats.vercel.app/api?username=louc1ty&show_icons=true&theme=tokyonight)
+### Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
+
+---
+### GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=loucitiy&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loucitiy&layout=compact&theme=tokyonight" height="180" />
+</p>
+
+---
