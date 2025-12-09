@@ -1,10 +1,12 @@
 <h1 align="center">Hi there, I'm Cong Tuan</h1>
 <h3 align="center">A passionate web developer following React & NodeJS</h3>
 
-- I'm currently learning **React, Bootstrap, JavaScript**
-- I'm building **modern websites and fullstack web**
-- Reach me at: **biyeo126@gmail.com**
-- Fun fact: I love mixing code with creativity
+# 💫 About Me:
+🔭 I’m final-year student passionate about web development 👨‍💻<br>🤝 I’m currently working on an ai-powered travel tour recommendation system using react, react-bootstrap, nodejs, expressjs and mongodb.<br>🌱 I’ve also built a few small web apps with a nodejs backend and i’m looking for a full-stack / backend internship to learn from real projects and contribute to a team.<br>
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Công Tuấn Lê) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:biyeo126@gmail.com) 
 
 ---
 
@@ -17,3 +19,11 @@
 </p>
 
 ---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=city314&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=city314&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=city314&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
