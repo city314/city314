@@ -102,12 +102,16 @@ Site for a multidisciplinary studio covering creative design, architecture, and 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=city314&theme=vue&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=city314&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=city314&theme=vue" alt="GitHub profile summary" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=city314&theme=vue&hide_border=false" alt="GitHub streak" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=city314&theme=vue" alt="Repos per language" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=city314&theme=vue" alt="Most commit language" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com/?user=city314&theme=vue&hide_border=false" alt="GitHub streak" />
 </p>
 
 ---
