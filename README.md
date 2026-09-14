@@ -1,9 +1,8 @@
 <h1 align="center">Hi there, I'm Cong Tuan</h1>
-<h3 align="center">A passionate web developer following React & NodeJS</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 # 💫 About Me:
-🔭 I’m final-year student passionate about web development 👨‍💻<br>🤝 I’m currently working on an ai-powered travel tour recommendation system using react, react-bootstrap, nodejs, expressjs and mongodb.<br>🌱 I’ve also built a few small web apps with a nodejs backend and i’m looking for a full-stack / backend internship to learn from real projects and contribute to a team.<br>
-
+🔭 I am passionate about transforming manual business processes into scalable, data-driven solutions. 👨‍💻<br>🌱 My work focuses on business intelligence, reporting automation, process optimization, and supporting digital transformation initiatives through data.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/công-tuấn-lê-040a52380/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lecongtuan03012004@gmail.com) 
